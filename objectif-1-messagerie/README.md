@@ -15,3 +15,4 @@ Le détail et l'état de vos tâches sont sur le site Foundation, dans « Mes t�
 ## Séances live
 - Introduction aux systèmes d'information client/serveur
 - Introduction à la cryptographie
+-test Git : Oumar DIALLO
